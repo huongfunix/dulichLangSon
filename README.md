@@ -1,1 +1,1 @@
-# dulichLangSon.gihub.io
+# dulichLangSon.github.io
